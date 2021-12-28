@@ -1,0 +1,8 @@
+C:\Users\well\source\repos\OOP_Project4\Debug\OOP_Project4.exe
+C:\Users\well\source\repos\OOP_Project4\Debug\OOP_Project4.pdb
+C:\Users\CSE6P12\Desktop\OOP_Project4\Debug\OOP_Project4.exe
+C:\Users\CSE6P12\Desktop\OOP_Project4\Debug\OOP_Project4.pdb
+C:\Users\well\Desktop\OOP4\Debug\OOP_Project4.exe
+C:\Users\well\Desktop\OOP4\Debug\OOP_Project4.pdb
+C:\Users\well\Desktop\이젠 놓아줘\Debug\OOP_Project4.exe
+C:\Users\well\Desktop\이젠 놓아줘\Debug\OOP_Project4.pdb
