@@ -4,6 +4,7 @@
 Window API를 활용한 Sokoban Game
 
 ### [팀원]
+https://github.com/byeongdori
 김병주, 김찬현, 김태훈, 박준형, 최종윤
 
 ### [결과물]
